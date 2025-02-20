@@ -1,0 +1,11 @@
+.tool-bar__container {
+  height: 60px;
+  display: flex;
+  background-color: rgb(221, 221, 221);
+  padding: 0 10px;
+}
+
+.arrow {
+  background-color: transparent;
+  margin-right: 10px;
+}
